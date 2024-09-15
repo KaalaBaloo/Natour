@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="nationalgeographic_1468962" size="0.080000 0.045000" />
+    <ImageTarget name="gatocomuneuropeo" size="0.080000 0.060000" />
+  </Tracking>
+</QCARConfig>
